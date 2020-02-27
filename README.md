@@ -6,3 +6,11 @@ You will be asked to fill out desired aspects of NGOs that are stored in the dat
 
 It then allows you to explore NGO names in a scrolling basis before getting a recommendation, and then opens a word cloud description of the chosen NGO's mission statement. You are able to interact with and save this file, and then Excel file with top recommendations will be saved to your computer.
 
+
+Below is an example of the wordcloud and dataframe produced by the function:
+
+
+!['Example WordCloud for Gender Equity NGO'](https://github.com/rebecca-hh-rosen/ngo_net/blob/master/gender_equality_wc.png)
+
+
+!['Example Data Frame for Gender Equity NGO'](https://github.com/rebecca-hh-rosen/ngo_net/blob/master/example_pic.png?raw=true "Optional Title")
