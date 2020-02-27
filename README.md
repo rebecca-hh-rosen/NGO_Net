@@ -1,8 +1,11 @@
 # NGO_Network
 
-NGO Network is a project intendid to reduce the labor of NGOs seeking out each other, as well as individuals seeking out NGOs. Unlike other connections, NGO Network allows users to look though a database of international, UN-affiliated NGOs and generate novel recommendations. This generates mroe tangential relationship by providing a similarity score determiend by overlap across 12 different features.
+NGO Network is a project intended to reduce the labor of NGOs seeking out each other, as well as individuals seeking out NGOs. Unlike other connections, NGO Network allows users to look though a database of international, UN-affiliated NGOs and generate novel recommendations. This algorithm generates a more sources of relationship by providing a similarity score that determiend by overlap across 12 different features.
 
-How you can use NGO Network:
+The data on nearly 12,000 NGOs were scraped from a public website, at <https://esango.un.org/civilsociety/login.do>. Please reach out to me regarding more information on how I conducted the scrape.
+
+
+**How you can use NGO Network:**
 ngo_script.py initiates a call and response to the user - 
 You will be asked to fill out desired aspects of NGOs that are stored in the dataframe including: age of NGO, language spoken, country of activity and if you'd like to be strict about all features being present in the search.
 
