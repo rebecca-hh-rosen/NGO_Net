@@ -17,9 +17,8 @@ Below is an example of the wordcloud and dataframe produced by the function:
 
 !['Example WordCloud for Gender Equity NGO'](https://github.com/rebecca-hh-rosen/ngo_net/blob/master/gender_equality_wc.png)
 
-
-!['Example Data Frame for Gender Equity NGO'](https://github.com/rebecca-hh-rosen/ngo_net/blob/master/example_pic.png?raw=true "Optional Title")
 *(click to magnify and explore in more depth)*
+!['Example Data Frame for Gender Equity NGO'](https://github.com/rebecca-hh-rosen/ngo_net/blob/master/example_pic.png?raw=true "Optional Title")
 
 Enjoy! 
 
