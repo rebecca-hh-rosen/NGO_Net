@@ -2,7 +2,7 @@
 
 NGO Network is a project that reduces the labor of NGOs seeking out each other, and helps individuals seek out NGOs. Unlike other connection services, NGO Network allows users to look though a database of international, UN-affiliated NGOs and generate novel recommendations. This algorithm generates a more nuanced sort of relationship, as it sorts by similarity score that determiend by overlap across 12 different features.
 
-The data on nearly 12,000 NGOs were scraped from a public website, at <https://esango.un.org/civilsociety/login.do>. Please reach out to me regarding more information on how I conducted the scrape.
+The data on nearly 12,000 NGOs were scraped from a public website, at <https://esango.un.org/civilsociety/login.do>. Please reach out to me regarding information on how I conducted the full scrape.
 
 
 ## How you can use NGO Network:
